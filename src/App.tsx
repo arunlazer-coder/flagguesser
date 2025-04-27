@@ -155,7 +155,7 @@ export default function App() {
       <div className="custom-container">
         <div className="custom-globe" />
         <span className="custom-level">Level {level}</span>
-        <h1 className="custom-title after:content-[''] after:absolute after:-bottom-2 after:left-1/2 after:-translate-x-1/2 after:w-1/2 after:h-1 after:rounded bg-gradient-to-r from-[var(--primary)] to-[var(--secondary)] after:block">Flag Guesser Change Test</h1>
+        <h1 className="custom-title after:content-[''] after:absolute after:-bottom-2 after:left-1/2 after:-translate-x-1/2 after:w-1/2 after:h-1 after:rounded bg-gradient-to-r from-[var(--primary)] to-[var(--secondary)] after:block">Flag Guesser Change Test 1</h1>
         <div className="custom-score">
           <span>Score: <strong>{score}</strong></span>
           <span>High Score: <strong>{highScore}</strong></span>
